@@ -1,8 +1,8 @@
 plugins {
     id 'com.android.library'
+    // JitPack Maven
+    id 'com.github.dcendents.android-maven'
 }
-// JitPack Maven
-apply plugin: 'com.github.dcendents.android-maven'
 // Your Group
 group = 'com.github.zsliu'
 android {
