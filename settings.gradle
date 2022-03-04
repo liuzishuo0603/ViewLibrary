@@ -1,0 +1,4 @@
+rootProject.name = "ViewLibrary"
+include ':app'
+include ':rockerview'
+include ':banner'
